@@ -1,4 +1,5 @@
 # Demonstration of t-SNE (t-distributed Stochastic Neighbor Embedding) using scikit-learn
+For more details on t-SNE, please go to https://datachemeng.com/tsne/
 
 and
 
